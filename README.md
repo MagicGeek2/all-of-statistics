@@ -1,9 +1,3 @@
-不记得出处了，对不起原作者。。。
-
-下面是作者原话：
-
-This repository contains my personal notes and complete solutions from my self-study of Larry Wasserman's "All of Statistics: A Concise Course in Statistical Inference".  This follows an older edition of the book, though there is almost complete overlap with the latest edition.
-
-Main definitions, ideas, and theorems from each chapter are included in the notes, but examples are usually skipped.  This repository is not intended as a replacement for the book.
-
-Each included chapter has a Jupyter notebook including notes on the chapter and exercise solutions -- notes and solutions using LaTeX in markdown and executable Python.
+转载文章
+原地址：
+https://github.com/telmo-correa/all-of-statistics
